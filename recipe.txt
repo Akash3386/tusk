@@ -9,6 +9,7 @@ chicken Fry
 
 Beans
 pizza
+samosa
 
 
 Thank you :)
